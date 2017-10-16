@@ -1,6 +1,6 @@
 {
   "name": "iopcore-lib",
-  "version": "0.1.0-beta.1",
+  "version": "0.1.0",
   "description": "A pure and powerful JavaScript IoP library.",
   "author": "IoP Community",
   "main": "index.js",
