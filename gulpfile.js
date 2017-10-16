@@ -1,5 +1,4 @@
 
+var iopcoreTasks = require('iopcore-build');
 
-var bitcoreTasks = require('bitcore-build');
-
-bitcoreTasks('lib');
+iopcoreTasks('lib',{skipBrowser: true});
