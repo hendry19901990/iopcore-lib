@@ -1,0 +1,21 @@
+{
+  "name": "iopcore-lib",
+  "main": "./iopcore-lib.min.js",
+  "version": "0.1.0-beta.1",
+  "homepage": "iop-project.com",
+  "authors": ["IoP Community, Inc."],
+  "description": "A pure, powerful core for your IoP project.",
+  "moduleType": ["globals"],
+  "keywords": ["bitcoin", "iopcore", "btc", "iop", "satoshi"],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
