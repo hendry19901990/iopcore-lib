@@ -1,6 +1,6 @@
 {
   "name": "iopcore-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A pure and powerful JavaScript IoP library.",
   "author": "IoP Community",
   "main": "index.js",
@@ -47,7 +47,9 @@
     "buffer-compare": "=1.0.0",
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
-    "lodash": "=3.10.1"
+    "lodash": "=3.10.1",
+    "sha512": "=0.0.1",
+    "x11-hash-js": "^1.0.0"
   },
   "devDependencies": {
     "iopcore-build": "^0.1.3",
