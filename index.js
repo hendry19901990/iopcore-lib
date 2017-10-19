@@ -44,6 +44,7 @@ iopcore.PrivateKey = require('./lib/privatekey');
 iopcore.PublicKey = require('./lib/publickey');
 iopcore.Script = require('./lib/script');
 iopcore.Transaction = require('./lib/transaction');
+iopcore.GovObject = require('./lib/govobject');
 iopcore.URI = require('./lib/uri');
 iopcore.Unit = require('./lib/unit');
 
